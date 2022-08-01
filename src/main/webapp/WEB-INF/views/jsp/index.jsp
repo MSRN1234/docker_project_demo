@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To SMARTFGIG TECHNOLOGIES, TIRUPATHI, BANGALORE.</h2>
+			<h2>Welcome To SMARTGIG TECHNOLOGIES, TIRUPATHI, BANGALORE.</h2>
 			<h3>Contact @ </h3>
 		</div>	
 	</div>
